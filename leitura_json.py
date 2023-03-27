@@ -1,4 +1,5 @@
 # DESAFIO JSON
+# Exercício para leitura de arquivos JSON do curso Mestre Pythonista na Dev Aprender com o instrutor Jhonatan
 import json
 
 # Imprimir o e-mail do usuário com id 2
